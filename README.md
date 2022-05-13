@@ -1,7 +1,5 @@
 # NashvilleHousing-Data-Cleaning
 
-Access to data from here
-
 This Repository contains some exploration on Nashville Hosing Dataset and Cleaning the data with SQL queries, 
 
 Include :
