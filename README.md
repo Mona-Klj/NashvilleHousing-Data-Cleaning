@@ -2,7 +2,7 @@
 
 This Repository contains some exploration on Nashville Hosing Dataset and Cleaning the data with SQL queries, 
 
-Include :
+Include:
 
 -Standardize Data Format
 
