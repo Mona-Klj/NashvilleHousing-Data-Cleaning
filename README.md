@@ -10,7 +10,7 @@ Include:
 
 - Breaking out Address into Columns
 
--Using Parsename to split OwnerAddress Column
+- Using Parsename to split OwnerAddress Column
 
 -Editing categorical Columns
 
