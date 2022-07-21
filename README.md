@@ -14,6 +14,6 @@ Include:
 
 - Editing categorical Columns
 
--Removing Duplicates
+- Removing Duplicates
 
 -Delete Unused Columns
