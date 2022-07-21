@@ -8,7 +8,7 @@ Include:
 
 - Filling Null Valuse
 
--Breaking out Address into Columns
+- Breaking out Address into Columns
 
 -Using Parsename to split OwnerAddress Column
 
