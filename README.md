@@ -6,7 +6,7 @@ Include:
 
 - Standardize Data Format
 
--Filling Null Valuse
+- Filling Null Valuse
 
 -Breaking out Address into Columns
 
