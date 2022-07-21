@@ -12,7 +12,7 @@ Include:
 
 - Using Parsename to split OwnerAddress Column
 
--Editing categorical Columns
+- Editing categorical Columns
 
 -Removing Duplicates
 
