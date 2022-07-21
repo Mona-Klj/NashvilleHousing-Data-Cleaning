@@ -4,7 +4,7 @@ This Repository contains some exploration on Nashville Hosing Dataset and cleani
 
 Include:
 
--Standardize Data Format
+- Standardize Data Format
 
 -Filling Null Valuse
 
